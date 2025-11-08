@@ -2,7 +2,7 @@
 title: LPWAN GSG-F20P Board
 description: 
 published: true
-date: 2025-11-08T21:49:20.985Z
+date: 2025-11-08T21:54:46.634Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-08T21:49:20.985Z
