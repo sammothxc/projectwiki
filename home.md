@@ -2,13 +2,13 @@
 title: Sam's Hobbyist Wiki
 description: 
 published: true
-date: 2025-11-08T21:25:43.496Z
+date: 2025-11-08T21:25:59.344Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-08T21:22:27.981Z
 ---
 
-> Some pages may still be missing content or resources. I appreciate your support as I work on building this site.
+> Some pages may still be missing content or resources. I appreciate your support as I work on building this wiki.
 {.is-danger}
 
 # Sam’s Hobbyist Wiki
