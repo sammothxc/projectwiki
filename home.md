@@ -2,7 +2,7 @@
 title: Sam's Hobbyist Wiki
 description: 
 published: true
-date: 2025-11-08T21:22:27.981Z
+date: 2025-11-08T21:22:57.913Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-08T21:22:27.981Z
@@ -33,3 +33,4 @@ This is my collection of notes, schematics, project, and how-tos all built from 
 | [esp32-fieroALDL](https://github.com/sammothxc/esp32-fieroALDL) | An esp12f based Fiero ALDL/OBD-I scantool
 
 > Check out more on [my github](https://github.com/sammothxc?tab=repositories)!
+{.is-info}
