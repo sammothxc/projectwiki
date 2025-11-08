@@ -23,5 +23,3 @@ This is my collection of notes, schematics, project, and how-tos all built from 
 | [esp12-magicfit2-controller](https://github.com/sammothxc/esp12-magicfit2-controller) | Using an ESP12F to add Wifi control to a Magic Fit 2 Vibration Exercise Plate
 | [homeassistant-temp-sensor](https://github.com/sammothxc/homeassistant-temp-sensor) | A DHT11 PCB Shield for Wemos D1 Mini and similar form factor ESP boards
 | [esp32-fieroALDL](https://github.com/sammothxc/esp32-fieroALDL) | An esp12f based Fiero ALDL/OBD-I scantool
-
-> Check out more on [my github](https://github.com/sammothxc?tab=repositories)!
