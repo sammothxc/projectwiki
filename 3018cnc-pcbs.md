@@ -2,7 +2,7 @@
 title: PCBs with 3018 CNC
 description: 
 published: true
-date: 2025-11-11T00:14:46.866Z
+date: 2025-11-11T04:56:32.514Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-08T21:35:02.466Z
@@ -23,4 +23,7 @@ Then `Plot`
 Then `Generate Drill Files...`
 ![drill-files.png](/assets/drill-files.png)
 
-In Flatcam
+In Flatcam 8.993 BETA:
+Initial settings: `Edit` -> `Preferences` (or <kbd>Shift</kbd> + <kbd>P</kbd>)
+Units: set to the same units you used to design the board (probably `mm`)
+
