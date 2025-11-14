@@ -2,7 +2,7 @@
 title: PCBs with 3018 CNC
 description: 
 published: true
-date: 2025-11-14T03:07:37.710Z
+date: 2025-11-14T21:10:28.730Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-08T21:35:02.466Z
@@ -13,12 +13,13 @@ dateCreated: 2025-11-08T21:35:02.466Z
 
 # Milling Single-sided PCBs with cheap desktop 3018 CNC Machine
 
-In KiCad 9.99:
+In KiCad 9.99
 
-Track width: 0.5mm
+0.3mm Bit Settings
+Track width: 0.5mm 
 Clearance: 0.5mm
 
-Usual components:
+Usual components
 Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal (1/2W)
 Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal (1/4W)
 Capacitor_THT:CP_Radial_D7.5mm_P2.50mm
