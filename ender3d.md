@@ -2,7 +2,7 @@
 title: My Ender 3 Settings
 description: 
 published: true
-date: 2025-11-21T03:44:38.542Z
+date: 2025-11-21T05:20:35.819Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-21T03:40:23.468Z
