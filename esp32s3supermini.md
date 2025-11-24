@@ -2,7 +2,7 @@
 title: ESP32-S3 Supermini
 description: 
 published: true
-date: 2025-11-24T06:41:12.130Z
+date: 2025-11-24T19:56:55.107Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-24T05:49:24.721Z
@@ -18,7 +18,7 @@ Pins can source 40mA and sink 28mA. Board total power budget is ~1500mA.
 
 ## PlatformIO
 
-Create the folder `%HOMEPATH%/.platformio/boards` if it doesn't exist already. Make the file `esp32-s3-fh4r2.json` and put [these contents](https://github.com/sivar2311/platformio_boards/blob/main/esp32-s3-fh4r2.json) in it.
+Create the folder `%HOMEPATH%/.platformio/boards` if it doesn't exist already. Put [this file](https://github.com/sivar2311/platformio_boards/blob/main/esp32-s3-fh4r2.json) in the boards folder.
 
 Put this in your `platformio.ini`
 
