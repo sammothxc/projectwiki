@@ -2,11 +2,13 @@
 title: ESP32-S3 Supermini
 description: 
 published: true
-date: 2025-11-24T05:52:36.850Z
+date: 2025-11-24T05:53:28.813Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-24T05:49:24.721Z
 ---
+
+# ESP32 S3 Supermini
 
 ## Pinout
 
