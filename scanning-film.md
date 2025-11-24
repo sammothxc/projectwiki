@@ -2,7 +2,7 @@
 title: Scanning Film Negatives
 description: 
 published: true
-date: 2025-11-23T02:49:52.858Z
+date: 2025-11-24T01:49:36.728Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-23T01:49:38.700Z
@@ -16,3 +16,7 @@ dateCreated: 2025-11-23T01:49:38.700Z
 - Aperture: f8
 - ISO: 100 or 200
 - Image output: RAW
+
+## Editing Negatives
+
+https://www.youtube.com/watch?v=On3BqhXYJM0
