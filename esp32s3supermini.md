@@ -2,7 +2,7 @@
 title: ESP32-S3 Supermini
 description: 
 published: true
-date: 2025-11-24T05:58:40.508Z
+date: 2025-11-24T06:41:12.130Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-24T05:49:24.721Z
@@ -14,7 +14,7 @@ dateCreated: 2025-11-24T05:49:24.721Z
 
 ![esp32s3supermini-pinout.png](/esp32s3supermini-pinout.png)
 
-Pins can source 20mA (some can do 40mA) and baord total is ~1500mA.
+Pins can source 40mA and sink 28mA. Board total power budget is ~1500mA.
 
 ## PlatformIO
 
