@@ -2,7 +2,7 @@
 title: ESP32-S3 Supermini
 description: 
 published: true
-date: 2025-12-31T18:22:42.433Z
+date: 2025-12-31T18:33:27.935Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-24T05:49:24.721Z
@@ -22,7 +22,7 @@ Create the folder `%HOMEPATH%/.platformio/boards` if it doesn't exist already. P
 
 Put this in your `platformio.ini`
 
-```
+```ini
 [env:esp32-s3-fh4r2]
 platform = espressif32
 framework = arduino
