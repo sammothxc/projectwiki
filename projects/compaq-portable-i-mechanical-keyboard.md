@@ -2,7 +2,7 @@
 title: Compaq Portable I Mechanical Keyboard
 description: 
 published: true
-date: 2025-12-31T20:14:02.492Z
+date: 2025-12-31T20:19:03.024Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-31T18:32:37.457Z
@@ -37,3 +37,4 @@ Female connector that plugs into the keyboard, fat side up:
 > - https://github.com/tmk/tmk_core
 > - https://www.youtube.com/watch?v=fGLiPh0byCo
 > - https://github.com/tmk/tmk_keyboard/wiki/IBM-PC-XT-Keyboard-Protocol#keyboard-hard-reset
+> - https://github.com/AndersBNielsen/pcxtkbd/blob/master/XT_KEYBOARD.ino
