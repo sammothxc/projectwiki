@@ -2,7 +2,7 @@
 title: Panasonic Toughbooks
 description: 
 published: true
-date: 2026-01-10T07:44:14.942Z
+date: 2026-01-10T07:51:40.398Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-10T06:34:56.726Z
@@ -33,4 +33,34 @@ Adjusting the very last number seems to make the biggest difference, and the oth
 > Many thanks to [@eightysixed](https://forums.bunsenlabs.org/viewtopic.php?id=7527) for the help!
 
 ## Touchscreen Calibration
+
+Run:
+
+```shell
+sudo apt install xinput-calibrator
+```
+
+Then:
+
+```shell
+xinput_calibrator
+```
+
+It'll have you touch some points on the screen to calibrate, then it will print something to the terminal like:
+
+```shell
+Section "InputClass"
+	Identifier	"calibration"
+	MatchProduct	"LBPS/2 Fujitsu Lifebook TouchScreen"
+	Option	"MinX"	"4395"
+	Option	"MaxX"	"60116"
+	Option	"MinY"	"7175"
+	Option	"MaxY"	"58659"
+	Option	"SwapXY"	"0"
+	Option	"InvertX"	"0"
+	Option	"InvertY"	"0"
+EndSection
+```
+
+Copy and then past this into the file `/etc/X11/xorg.conf.d/99-calibration.conf`.
 
