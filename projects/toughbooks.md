@@ -1,14 +1,16 @@
 ---
-title: Toughbooks
+title: Panasonic Toughbooks
 description: 
 published: true
-date: 2026-01-10T06:34:56.726Z
+date: 2026-01-10T07:44:14.942Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-10T06:34:56.726Z
 ---
 
 # FAQ for CF-29 and CF-18
+
+Common issues with the CF-29 and CF-18, solved on BunsenLabs Linux Boron.
 
 ## Slow Trackpad?
 
