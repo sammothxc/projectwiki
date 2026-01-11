@@ -2,7 +2,7 @@
 title: Panasonic Toughbooks
 description: 
 published: true
-date: 2026-01-11T03:16:28.505Z
+date: 2026-01-11T03:23:28.790Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-10T06:34:56.726Z
@@ -51,18 +51,14 @@ It'll have you touch some points on the screen to calibrate, then it will print 
 
 ```shell
 Section "InputClass"
-	Identifier	"calibration"
+	Identifier		"calibration"
 	MatchProduct	"LBPS/2 Fujitsu Lifebook TouchScreen"
-	Option	"MinX"	"4395"
-	Option	"MaxX"	"60116"
-	Option	"MinY"	"7175"
-	Option	"MaxY"	"58659"
-	Option	"SwapXY"	"0"
-	Option	"InvertX"	"0"
-	Option	"InvertY"	"0"
+	Option	"Calibration"	"335 3975 295 3758"
+	Option	"SwapAxes"		"0"
+
 EndSection
 ```
 
-Copy and then past this into the file `/etc/X11/xorg.conf.d/99-calibration.conf` AND/OR (for whatever reason the CF-18 and CF-29 require that file be in both locations to calibrate properly.
+**Copy the snippet it tells you to copy** and then paste it into the file `/etc/X11/xorg.conf.d/99-calibration.conf` AND/OR `/usr/share/X11/xorg.conf.d/99-calibration.conf` (for whatever reason the CF-18 and CF-29 require that file be in both locations to calibrate properly.
 
 > All credit goes to [Chris Keller](https://askubuntu.com/questions/1188624/trouble-with-xinput-calibrator-on-a-toughbook-cf-19)!
