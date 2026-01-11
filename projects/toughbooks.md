@@ -2,13 +2,13 @@
 title: Panasonic Toughbooks
 description: 
 published: true
-date: 2026-01-11T03:26:27.856Z
+date: 2026-01-11T03:27:31.049Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-10T06:34:56.726Z
 ---
 
-# FAQ for CF-29 and CF-18
+# Toughbooks CF-29 and CF-18
 
 Common issues with the CF-29 and CF-18, solved on BunsenLabs Linux Boron.
 
