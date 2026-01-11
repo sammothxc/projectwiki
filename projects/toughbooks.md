@@ -2,7 +2,7 @@
 title: Panasonic Toughbooks
 description: 
 published: true
-date: 2026-01-11T03:27:31.049Z
+date: 2026-01-11T03:28:07.961Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-10T06:34:56.726Z
@@ -27,7 +27,7 @@ xinput --set-prop <device_number_here> "libinput Accel Speed" 0.75
 xinput --set-prop <device_number_here> "Coordinate Transformation Matrix" 0.8 0 0 0 0.8 0 0 0 0.2
 ```
 
-These seem to work well on the CF-29
+These seem to work well on the CF-29.
 Adjusting the very last number seems to make the biggest difference, and the other two non-zero numbers help dial it in.
 
 > Many thanks to [@eightysixed](https://forums.bunsenlabs.org/viewtopic.php?id=7527) for the help!
@@ -59,6 +59,6 @@ Section "InputClass"
 EndSection
 ```
 
-**Copy the snippet it tells you to copy** and then paste it into the file `/etc/X11/xorg.conf.d/99-calibration.conf` AND/OR `/usr/share/X11/xorg.conf.d/99-calibration.conf` (for whatever reason the CF-18 and CF-29 require that file be in both locations to calibrate properly on Bunsenlabs Linux).
+**Copy the snippet it tells you to copy** and then paste it into the file `/etc/X11/xorg.conf.d/99-calibration.conf` AND/OR `/usr/share/X11/xorg.conf.d/99-calibration.conf` (for whatever reason the CF-18 and CF-29 require that file be in both locations to calibrate properly on BunsenLabs Linux).
 
 > All credit goes to [Chris Keller](https://askubuntu.com/questions/1188624/trouble-with-xinput-calibrator-on-a-toughbook-cf-19)!
