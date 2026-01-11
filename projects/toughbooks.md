@@ -2,7 +2,7 @@
 title: Panasonic Toughbooks
 description: 
 published: true
-date: 2026-01-11T03:23:28.790Z
+date: 2026-01-11T03:26:27.856Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-10T06:34:56.726Z
@@ -59,6 +59,6 @@ Section "InputClass"
 EndSection
 ```
 
-**Copy the snippet it tells you to copy** and then paste it into the file `/etc/X11/xorg.conf.d/99-calibration.conf` AND/OR `/usr/share/X11/xorg.conf.d/99-calibration.conf` (for whatever reason the CF-18 and CF-29 require that file be in both locations to calibrate properly.
+**Copy the snippet it tells you to copy** and then paste it into the file `/etc/X11/xorg.conf.d/99-calibration.conf` AND/OR `/usr/share/X11/xorg.conf.d/99-calibration.conf` (for whatever reason the CF-18 and CF-29 require that file be in both locations to calibrate properly on Bunsenlabs Linux).
 
 > All credit goes to [Chris Keller](https://askubuntu.com/questions/1188624/trouble-with-xinput-calibrator-on-a-toughbook-cf-19)!
