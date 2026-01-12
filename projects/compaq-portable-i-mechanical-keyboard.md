@@ -2,7 +2,7 @@
 title: Compaq Portable I Mechanical Keyboard
 description: 
 published: true
-date: 2026-01-12T07:22:52.339Z
+date: 2026-01-12T07:27:39.281Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-31T18:32:37.457Z
@@ -76,7 +76,22 @@ The TMK Keyboard wiki has an excellent writeup on this topic:
 
 Measure Data and Clock on startup: IBM version should show the Clock high while Data is held low. Clones will just have both high.
 
-### 
+### Clock and Data Signals
+
+> The keyboard and system communicate over the 'clock' and 'data' lines. The source of each of these lines is an open-collector device on the keyboard that allows either the keyboard or the system to force a line to an inactive (low) level. When no communication is occurring, the 'clock' line is at an active (high) level. The state of the' data' line is held inactive (low) by the keyboard. 
+>
+> An inactive signal will have a value of at least 0, but not greater than +0.7 volts. A signal at the inactive level is a logical O. An active signal will have a value of at least +2.4, but not greater than +5.5 volts. A signal at the active level is a logical 1. Voltages are measured between a signal source and the dc network ground. 
+>
+> The keyboard 'clock' line provides the clocking signals used to clock serial data from the keyboard. If the host system forces the 'clock' line to an inactive level, keyboard transmission is inhibited. 
+>
+> When the keyboard sends data to the system, it generates the 'clock' signal to time the data. The system can prevent the keyboard from sending data by forcing the 'clock' line to an inactive level, or by holding the 'data' line at an inactive level.
+> During the BAT, the keyboard allows the 'clock' and 'data' lines to go to an active level.
+>
+> - [IBM_5155_5160_Technical_Reference_6280089_MAR86.pdf](http://www.minuszerodegrees.net/manuals/IBM_5155_5160_Technical_Reference_6280089_MAR86.pdf), pages 4-33
+
+### Data Stream
+
+
 
 ## Resources
 
