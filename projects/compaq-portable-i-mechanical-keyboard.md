@@ -2,7 +2,7 @@
 title: Compaq Portable I Mechanical Keyboard
 description: 
 published: true
-date: 2026-01-12T07:53:27.206Z
+date: 2026-01-12T07:53:42.743Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-31T18:32:37.457Z
@@ -143,6 +143,6 @@ Typical waveform for the Compaq Portable Plus:
 > - https://forum.vcfed.org/index.php?threads/compaq-portable-i-corroded-keyboard.57223/
 > - https://github.com/tmk/tmk_core
 > - https://www.youtube.com/watch?v=fGLiPh0byCo
-> - https://github.com/tmk/tmk_keyboard/wiki/IBM-PC-XT-Keyboard-Protocol#keyboard-hard-reset
+> - https://github.com/tmk/tmk_keyboard/wiki/IBM-PC-XT-Keyboard-Protocol
 > - https://github.com/AndersBNielsen/pcxtkbd/blob/master/XT_KEYBOARD.ino
 > - https://web.archive.org/web/20210307022734/http://halicery.com/Hardware/Intel%208042%20and%208048/8048_XT_INTERN.TEXT
