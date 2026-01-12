@@ -2,8 +2,8 @@
 title: Markdown Supported Languages
 description: 
 published: true
-date: 2026-01-12T07:12:39.052Z
-tags: 
+date: 2026-01-12T07:12:54.785Z
+tags: admin
 editor: markdown
 dateCreated: 2026-01-12T07:12:39.052Z
 ---
