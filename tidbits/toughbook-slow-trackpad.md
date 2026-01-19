@@ -2,8 +2,8 @@
 title: Toughbook: Slow Trackpad
 description: 
 published: true
-date: 2026-01-19T05:31:41.629Z
-tags: 
+date: 2026-01-19T05:38:09.813Z
+tags: tidbit, panasonic toughbook
 editor: markdown
 dateCreated: 2026-01-19T05:31:41.629Z
 ---
