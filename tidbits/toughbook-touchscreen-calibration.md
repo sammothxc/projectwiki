@@ -2,8 +2,8 @@
 title: Toughbook: Touchscreen Calibration
 description: 
 published: true
-date: 2026-01-19T05:34:04.079Z
-tags: 
+date: 2026-01-19T05:37:52.054Z
+tags: tidbit, panasonic toughbook
 editor: markdown
 dateCreated: 2026-01-19T05:34:04.079Z
 ---
