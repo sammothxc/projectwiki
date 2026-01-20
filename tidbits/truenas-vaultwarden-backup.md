@@ -2,7 +2,7 @@
 title: TrueNAS: Vaultwarden Backup
 description: 
 published: true
-date: 2026-01-20T05:04:32.375Z
+date: 2026-01-20T05:30:52.193Z
 tags: tidbit, truenas
 editor: markdown
 dateCreated: 2026-01-20T05:04:32.375Z
