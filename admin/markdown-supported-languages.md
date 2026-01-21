@@ -1,14 +1,14 @@
 ---
-title: Markdown Supported Languages
+title: Markdown: Supported Languages
 description: 
 published: true
-date: 2026-01-12T07:13:14.468Z
-tags: admin
+date: 2026-01-21T22:02:32.481Z
+tags: md, kb
 editor: markdown
 dateCreated: 2026-01-12T07:12:39.052Z
 ---
 
-## Markdown Supported Languages 
+## Markdown: Supported Languages 
 
 Following is an example for highlighting c++ codes in markdown texts:
 
