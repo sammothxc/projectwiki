@@ -2,8 +2,8 @@
 title: TrueNAS: Dataset Busy
 description: 
 published: true
-date: 2026-01-19T05:37:21.754Z
-tags: tidbit, truenas
+date: 2026-01-21T22:08:20.473Z
+tags: truenas, kb
 editor: markdown
 dateCreated: 2026-01-19T05:29:44.066Z
 ---
