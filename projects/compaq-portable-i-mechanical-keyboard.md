@@ -2,7 +2,7 @@
 title: Compaq Portable I Mechanical Keyboard
 description: 
 published: true
-date: 2026-01-24T01:35:28.406Z
+date: 2026-01-24T07:17:15.695Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-31T18:32:37.457Z
