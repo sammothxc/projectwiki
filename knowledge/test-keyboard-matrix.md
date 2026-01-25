@@ -2,7 +2,7 @@
 title: Test Keyboard Matrix
 description: 
 published: true
-date: 2026-01-25T00:25:12.551Z
+date: 2026-01-25T00:45:59.754Z
 tags: kb, electronics
 editor: markdown
 dateCreated: 2026-01-24T22:55:40.251Z
@@ -38,8 +38,9 @@ dateCreated: 2026-01-24T22:55:40.251Z
 
 ## Layout
 
-![](/layout)
+![test_keyboard_layout](/test_keyboard_layout.png)
 
+## Matrix
 
 | Matrix    | Col 1 | Col 2 | Col 3 | Col 4 | Col 5 | Col 6 | Col 7 | Col 8 | Col 9 | Col 10 |
 | :-------- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :----: |
