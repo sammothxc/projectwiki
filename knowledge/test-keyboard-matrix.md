@@ -2,7 +2,7 @@
 title: Test Keyboard Matrix
 description: 
 published: true
-date: 2026-01-25T00:45:59.754Z
+date: 2026-01-25T00:53:46.985Z
 tags: kb, electronics
 editor: markdown
 dateCreated: 2026-01-24T22:55:40.251Z
@@ -12,7 +12,8 @@ dateCreated: 2026-01-24T22:55:40.251Z
 
 ## Specifications
 
-- Keys: 67
+- MCU: Elite-C ATmega32u4 Pro Micro
+- Key Count: 67
 - Row Pins: 7
 - Column Pins: 10
 
@@ -36,7 +37,7 @@ dateCreated: 2026-01-24T22:55:40.251Z
 - Column 9: Pin B6
 - Column 10: Pin B0
 
-## Layout
+## Physical Layout
 
 ![test_keyboard_layout](/test_keyboard_layout.png)
 
