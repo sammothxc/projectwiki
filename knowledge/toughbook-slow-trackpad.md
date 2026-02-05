@@ -2,7 +2,7 @@
 title: Toughbook: Slow Trackpad
 description: 
 published: true
-date: 2026-01-21T22:09:14.912Z
+date: 2026-02-05T05:14:59.815Z
 tags: panasonic toughbook, kb
 editor: markdown
 dateCreated: 2026-01-19T05:31:41.629Z
@@ -14,20 +14,20 @@ Tested on CF-18 and CF-29.
 
 Run:
 
-```shell
+```bash
 sudo apt remove xserver-xorg-input-libinput
 sudo apt install xserver-xorg-input-evdev xinput-calibrator
 ```
 
 And reboot. Then,
 
-```shell
+```bash
 xinput --list --short
 ```
 
 Find your mouse, and note `id=<device_number>`. Then try these settings:
 
-```shell
+```bash
 xinput --set-prop <device_number_here> "Device Accel Profile" 0.75
 xinput --set-prop <device_number_here> "Coordinate Transformation Matrix" 0.8 0 0 0 0.8 0 0 0 0.2
 ```
