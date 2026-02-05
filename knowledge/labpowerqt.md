@@ -2,7 +2,7 @@
 title: Installing LabPowerQT
 description: 
 published: true
-date: 2026-02-05T04:55:27.951Z
+date: 2026-02-05T04:59:32.314Z
 tags: kb, linux
 editor: markdown
 dateCreated: 2026-02-05T04:55:02.416Z
