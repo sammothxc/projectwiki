@@ -2,7 +2,7 @@
 title: Installing LabPowerQT
 description: 
 published: true
-date: 2026-02-05T04:55:02.416Z
+date: 2026-02-05T04:55:27.951Z
 tags: kb, linux
 editor: markdown
 dateCreated: 2026-02-05T04:55:02.416Z
@@ -30,6 +30,6 @@ Icon=labpowerqt
 Comment=Lab power supply control application
 Exec=labpowerqt
 Icon=utilities-terminal
-Categories=Utility;Development;
+Categories=Utility;
 EOF
 sudo chmod 644 /usr/share/applications/labpowerqt.desktop
