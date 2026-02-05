@@ -2,7 +2,7 @@
 title: Toughbook: Touchscreen Calibration
 description: 
 published: true
-date: 2026-01-21T22:08:46.859Z
+date: 2026-02-05T05:11:52.756Z
 tags: panasonic toughbook, kb
 editor: markdown
 dateCreated: 2026-01-19T05:34:04.079Z
@@ -37,6 +37,14 @@ Section "InputClass"
 EndSection
 ```
 
-**Copy the snippet it tells you to copy** and then paste it into the file `/etc/X11/xorg.conf.d/99-calibration.conf` AND/OR `/usr/share/X11/xorg.conf.d/99-calibration.conf` (for whatever reason the CF-18 and CF-29 require that file be in both locations to calibrate properly on BunsenLabs Linux).
+**Copy the snippet it tells you to copy** and then paste it into the file
+```bash
+/etc/X11/xorg.conf.d/99-calibration.conf
+```
+AND/OR
+```bash
+/usr/share/X11/xorg.conf.d/99-calibration.conf
+```
+(for whatever reason the CF-18 and CF-29 require that file be in both locations to calibrate properly on BunsenLabs Linux).
 
 > All credit goes to [Chris Keller](https://askubuntu.com/questions/1188624/trouble-with-xinput-calibrator-on-a-toughbook-cf-19)!
