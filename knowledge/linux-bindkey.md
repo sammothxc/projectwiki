@@ -2,7 +2,7 @@
 title: Linux: Bindkey
 description: 
 published: true
-date: 2026-01-22T22:42:08.628Z
+date: 2026-02-05T05:10:39.648Z
 tags: kb, linux
 editor: markdown
 dateCreated: 2026-01-22T22:42:08.628Z
@@ -10,7 +10,10 @@ dateCreated: 2026-01-22T22:42:08.628Z
 
 # Linux: Bindkey
 
-To make the numpad on some keyboards work in the linux terminal, use `bindkey -s "<KEYCODE>" "<KEY>"`
+To make the numpad on some keyboards work in the linux terminal, use
+```bash
+bindkey -s "<KEYCODE>" "<KEY>"
+```
 
 To determine the keycode, you can press  <kbd>Ctrl</kbd> + <kbd>v</kbd> followed by the key to see it in the terminal
 
