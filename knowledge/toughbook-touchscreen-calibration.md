@@ -2,7 +2,7 @@
 title: Toughbook: Touchscreen Calibration
 description: 
 published: true
-date: 2026-02-05T05:11:52.756Z
+date: 2026-02-05T05:14:44.608Z
 tags: panasonic toughbook, kb
 editor: markdown
 dateCreated: 2026-01-19T05:34:04.079Z
@@ -14,20 +14,20 @@ Tested on CF-18 and CF-29.
 
 Run:
 
-```shell
+```bash
 sudo apt remove xserver-xorg-input-libinput
 sudo apt install xserver-xorg-input-evdev xinput-calibrator
 ```
 
 And reboot. Then,
 
-```shell
+```bash
 sudo xinput_calibrator
 ```
 
 It'll have you touch some points on the screen to calibrate, then it will print something to the terminal like:
 
-```shell
+```bash
 Section "InputClass"
 	Identifier		"calibration"
 	MatchProduct	"LBPS/2 Fujitsu Lifebook TouchScreen"
